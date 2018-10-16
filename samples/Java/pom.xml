@@ -30,6 +30,7 @@
         <module>azure-servicebus/MessageBrowse</module>
         <module>azure-servicebus/DeadletterQueue</module>
         <module>azure-servicebus/QueuesGettingStarted</module>
+        <module>azure-servicebus/QueuesWithProxy</module>
         <module>azure-servicebus/TopicsGettingStarted</module>
         <module>azure-servicebus/TopicFilters</module>
         <module>azure-servicebus/TimeToLive</module>
